@@ -1,7 +1,7 @@
 {
-  "name": "docsify",
+  "name": "secure-docsify",
   "version": "4.13.0",
-  "description": "A magical documentation generator.",
+  "description": "A magical documentation generator. Now with authentication.",
   "homepage": "https://docsify.js.org",
   "repository": "github:docsifyjs/docsify",
   "authors": "https://github.com/docsifyjs/docsify/graphs/contributors",
